@@ -46,4 +46,7 @@ coverage.xml
 *.log
 *.sqlite3
 
-.ip
+# Data directory
+data/
+
+fake-data.zip
