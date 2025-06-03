@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+pandas
+tqdm
+tensorflow[and-cuda]==2.16.2
+matplotlib
+notebook
+jupyterlab
+tensorboard
