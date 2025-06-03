@@ -50,3 +50,5 @@ coverage.xml
 data/
 
 fake-data.zip
+
+notebooks/*keras*
